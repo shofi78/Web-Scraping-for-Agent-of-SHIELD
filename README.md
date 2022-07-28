@@ -11,3 +11,4 @@ Using Python
 - Load in Pandas and scrape the data from Wikipedia
 - Create a concatenated dataframe
 - Data Wrangling & Processing
+- Create Interactive Visual for Episode Popularity Overall and per Season
